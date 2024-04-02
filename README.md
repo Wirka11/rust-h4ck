@@ -7,6 +7,7 @@
 > RUST is designed specifically to give players the ability to fully control the gameplay and enjoy the game without limitations. We offer an extensive set of features that can be activated and customized according to each player's preferences. Just recently we decided to make our cheat free and available to all players without exception. Thanks to our 24/7 support, we fix your problems on time and keep our cheat on top.
 
 ### Showcase
+![1a90f42c857f82df8aa942c22b29afd6](https://github.com/Wirka11/rust-h4ck/assets/165839211/f0c9c968-371c-461b-b354-68811004466e)
 
 
 ### Features 🛠️:
